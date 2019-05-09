@@ -7,4 +7,4 @@ def oxford_comma(arr)
   return str
 end
 
-oxford_comma(["DHJK", "fjhd", "fhsd"])
+puts(oxford_comma(["DHJK", "fjhd", "fhsd"]))
