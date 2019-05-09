@@ -5,4 +5,4 @@ def oxford_comma(arr)
   end
 end
 
-oxford_comma
+oxford_comma(["DHJK"])
