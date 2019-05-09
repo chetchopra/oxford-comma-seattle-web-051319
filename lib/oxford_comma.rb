@@ -4,6 +4,7 @@ def oxford_comma(arr)
   amt.times do |i|
     str += "#{arr[i]}, "
   end
+  str += "and "
   return str
 end
 
