@@ -5,6 +5,6 @@ def oxford_comma(arr)
     str += "#{arr[i]}, "
   end
   str += "and #{arr.last}"
-  puts str
+  return str
 end
 
