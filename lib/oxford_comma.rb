@@ -1,7 +1,7 @@
 def oxford_comma(arr)
   amt = arr.size() - 1
   amt.times do |i|
-    puts i
+    puts arr[i]
   end
 end
 
