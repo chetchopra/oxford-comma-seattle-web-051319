@@ -5,7 +5,6 @@ def oxford_comma(arr)
     str += "#{arr[i]}, "
   end
   str += "and #{arr.last}"
-  return str
+  puts str
 end
 
-puts(oxford_comma(["DHJK", "fjhd", "fhsd"]))
